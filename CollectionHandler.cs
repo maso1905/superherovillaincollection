@@ -44,7 +44,7 @@ namespace SuperheroVillainCollection
             return id;
         }
         public void createCharacter() // Create character
-        {
+        {       
             Write("Name:\t");
             string inputName = ReadLine();
             Write("Background story:\t");
@@ -57,7 +57,7 @@ namespace SuperheroVillainCollection
             string inputEnemy = ReadLine();
             Write("Mission:\t");
             string inputMission = ReadLine();
-            WriteLine("\nChoose character type: [1] Superhero\t [2] Villain\t");
+            Write("\nChoose character type: [1] Superhero\t [2] Villain\t");
             string str_type_choice = ReadLine();
             Int32.TryParse(str_type_choice, out int type_choice);
             if (type_choice == 1) // Creates an object via the subclass "Superhero"
@@ -79,6 +79,7 @@ namespace SuperheroVillainCollection
             else
             {
                 WriteLine("Choose 1 or 2. Press any key to try again..."); // Error handling
+                ReadKey();
             }
         }
     }
