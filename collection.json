@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Batman",
+    "describtion": "Lost both parents at young age.. Got lost in a cave of bats, which became his best friends.",
+    "superpower": "Superstrong body and mind",
+    "weakness": "Catwoman",
+    "enemy": "The Joker",
+    "mission": "Prevent crime in Gotham City",
+    "type": "Superhero"
+  },
+  {
+    "name": "Joker",
+    "describtion": "With a troubled mind The Joker fell into a criminal path.. when trying to escape Batman he fell into acid and were forever changed. ",
+    "superpower": "Chemical engineering",
+    "weakness": "Pride",
+    "enemy": "Batman",
+    "mission": "Destroy Gotham City",
+    "type": "Villain"
+  },
+  {
+    "name": "Wonderwoman",
+    "describtion": "Sculpted from clay by her mother Queen Hippolyta. Given life to live as Amason with superhuman powers as gifts by the Greek gods.",
+    "superpower": "Superhuman strength",
+    "weakness": "Bullets",
+    "enemy": "Cheetah",
+    "mission": "Fight enemies",
+    "type": "Superhero"
+  }
+]

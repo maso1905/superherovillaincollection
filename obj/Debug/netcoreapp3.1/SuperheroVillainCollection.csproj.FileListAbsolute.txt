@@ -1,0 +1,45 @@
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.AssemblyInfoInputs.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.AssemblyInfo.cs
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.csproj.CoreCompileInputs.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.exe
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.deps.json
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.runtimeconfig.json
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.runtimeconfig.dev.json
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.dll
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.pdb
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.csproj.CopyComplete
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.dll
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.pdb
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.genruntimeconfig.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.csprojAssemblyReference.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.exe
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.deps.json
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.runtimeconfig.json
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.runtimeconfig.dev.json
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.dll
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.pdb
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.csprojAssemblyReference.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.AssemblyInfoInputs.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.AssemblyInfo.cs
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.csproj.CoreCompileInputs.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.csproj.CopyComplete
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.dll
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.pdb
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\DT071G Programmering i C#.NET\Projektarbete\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.genruntimeconfig.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.exe
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.deps.json
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.runtimeconfig.json
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.runtimeconfig.dev.json
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.dll
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\SuperheroVillainCollection.pdb
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.csprojAssemblyReference.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.AssemblyInfoInputs.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.AssemblyInfo.cs
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.csproj.CoreCompileInputs.cache
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.csproj.CopyComplete
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.dll
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.pdb
+C:\Users\malla\OneDrive\Skrivbord\Mittuniversitetet\År 2\Examensarbete\Portfolio Projects\SuperheroVillain\SuperheroVillainCollection\obj\Debug\netcoreapp3.1\SuperheroVillainCollection.genruntimeconfig.cache

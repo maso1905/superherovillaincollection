@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qxv1lCIhmzYY72d590lra+A5a1YplF4xiOtBix0X2sE9mMWy+HHHFwg9c0ZdrSqt0pqHsBNxdDJFGzaXRRfSBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malla\\OneDrive\\Skrivbord\\Mittuniversitetet\\År 2\\Examensarbete\\Portfolio Projects\\SuperheroVillain\\SuperheroVillainCollection\\SuperheroVillainCollection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malla\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
